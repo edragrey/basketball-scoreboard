@@ -1,0 +1,39 @@
+body {
+    background-color: #1B244A;
+    color: #EEEEEE;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    text-align: center;
+    border: white;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+      
+}
+
+button {
+    background: #1B244A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: regular;
+    font-size: 18px;
+    padding: 10px 10px;   
+    border-radius: 5px;
+    border-color: #9AABD8;
+    border-width: 1px;
+    margin-top: 20px;
+    margin-inline-end: 5px;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
